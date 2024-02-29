@@ -22,7 +22,7 @@ void DrwaEllipse(HDC hdc, int x, int y, int radWidth, int radHeight)
 LRESULT CALLBACK WNDProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam) 
 {
 	HDC hdc;
-	PAINTSTRUCT paintStruct; // 검색해보기
+	PAINTSTRUCT paintStruct; //PAINTSTRUCT 검색해보기
 
 	int myAge = 10;
 
