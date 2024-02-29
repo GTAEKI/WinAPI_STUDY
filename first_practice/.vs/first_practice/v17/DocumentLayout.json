@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kyungtaek\\Desktop\\WinAPI\\first_practice\\",
+  "WorkspaceRootPath": "C:\\Users\\Kyungtaek\\Documents\\WinAPI_STUDY\\first_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0741A126-9C9D-4154-AED1-F493D9CA4ADE}|Project1\\Project1.vcxproj|C:\\Users\\Kyungtaek\\Desktop\\WinAPI\\first_practice\\Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0741A126-9C9D-4154-AED1-F493D9CA4ADE}|Project1\\Project1.vcxproj|C:\\Users\\Kyungtaek\\Documents\\WinAPI_STUDY\\first_practice\\Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0741A126-9C9D-4154-AED1-F493D9CA4ADE}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Kyungtaek\\Desktop\\WinAPI\\first_practice\\Project1\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Kyungtaek\\Documents\\WinAPI_STUDY\\first_practice\\Project1\\Main.cpp",
               "RelativeDocumentMoniker": "Project1\\Main.cpp",
-              "ToolTip": "C:\\Users\\Kyungtaek\\Desktop\\WinAPI\\first_practice\\Project1\\Main.cpp",
+              "ToolTip": "C:\\Users\\Kyungtaek\\Documents\\WinAPI_STUDY\\first_practice\\Project1\\Main.cpp",
               "RelativeToolTip": "Project1\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-29T07:20:26.207Z",
               "EditorCaption": ""
