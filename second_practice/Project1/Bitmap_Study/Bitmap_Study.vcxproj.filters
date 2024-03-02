@@ -25,12 +25,12 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="DrawingTool.rc">
+    <ResourceCompile Include="Bitmap_Study.rc">
       <Filter>리소스 파일</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="test1.bmp">
+    <Image Include="bitmap1.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
